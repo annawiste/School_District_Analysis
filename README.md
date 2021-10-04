@@ -9,9 +9,9 @@ There was also a concern that some scores within the 9th grade class at Thomas H
 
 - The effect on the whole district summary
   First summary scores for the entire district were generated. 
-  ![District Summary with all students](Tables/district_summary_all)
+  ![District Summary with all students](Tables/district_summary_all.png)
   
-  ![District Summary cleaned](Tables/district_summary_clean)
+  ![District Summary cleaned](Tables/district_summary_clean.png)
 
 ### The effect on school summary
 
